@@ -1,6 +1,8 @@
+Surfboard 可用精简版 GeoIP (cn, privite, google)
+
 同https://github.com/Loyalsoldier/geoip 
 
-由于surfboard使用Country-only-cn-private.mmdb（精简版 GeoIP）时，必须包含8.8.8.8，所以在其基础上加上了geoip：google。
+由于surfboard使用Country-only-cn-private.mmdb（精简版 GeoIP）时，必须包含8.8.8.8，所以在其基础上加上了geoip:google。
 
 # 简介
 
