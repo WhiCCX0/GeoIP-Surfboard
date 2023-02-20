@@ -9,7 +9,7 @@ Surfboard 可用精简版 GeoIP (cn, privite, google)
 打开Surfboard - 设置 - VPN - GeoIP数据库 - 填入以下任意一个链接 - 点击更新并保存
 
   - [https://raw.githubusercontent.com/WhiCCX0/GeoIP-Surfboard/release/Country-only-cn-private-surfboard.mmdb](https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country-only-cn-private.mmdb)
-  - [https://cdn.jsdelivr.net/gh/WhiCCX0/GeoIP-Surfboard@release/Country-only-cn-private-surfboard.mmdb]([https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb](https://cdn.jsdelivr.net/gh/WhiCCX0/GeoIP-Surfboard@release/Country-only-cn-private-surfboard.mmdb))
+  - [https://cdn.jsdelivr.net/gh/WhiCCX0/GeoIP-Surfboard@release/Country-only-cn-private-surfboard.mmdb](https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb](https://cdn.jsdelivr.net/gh/WhiCCX0/GeoIP-Surfboard@release/Country-only-cn-private-surfboard.mmdb)
 
 > 如果无法访问域名 `raw.githubusercontent.com`，可以使用第二个地址 `cdn.jsdelivr.net`。
 
