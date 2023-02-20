@@ -1,3 +1,6 @@
+同https://github.com/Loyalsoldier/geoip 
+由于surfboard使用Country-only-cn-private.mmdb（精简版 GeoIP）时，必须包含8.8.8.8，所以在其基础上加上了geoip：google。
+
 # 简介
 
 本项目每周四自动生成 GeoIP 文件，同时提供命令行界面（CLI）供用户自行定制 GeoIP 文件，包括但不限于 V2Ray dat 格式路由规则文件 `geoip.dat` 和 MaxMind mmdb 格式文件 `Country.mmdb`。
